@@ -9,7 +9,7 @@ const Bankers=lazy(()=>import("./pages/Bankers"))
 const Routes = () => {
   return (
     <Suspense fallback={<Spinner/>}>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route path="/" exact component={App} />
         <Route path="/CpuSchedulingAlgorithms" component={Scheduler} />
