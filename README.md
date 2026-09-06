@@ -1,6 +1,6 @@
 # Cpu scheduling simulator
 
-### click [here](https://os-sim.netlify.app/) for demo
+### click [here](https://ayush20010627.github.io/cpu-scheduling-algo/) for demo
 
 Cpu scheduling simulator is a project where you can visualize basic scheduling alorithms like:
 
@@ -32,4 +32,3 @@ Cpu scheduling simulator is a project where you can visualize basic scheduling a
 
 ### Responsive
 ![Alt text](./Output/Mobile.png)
-
